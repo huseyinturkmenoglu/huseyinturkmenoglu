@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/h_turkmenoglu"><img src="https://api.daily.dev/devcards/e881465fc9ec41c7a261af117be9383f.png?r=vsn" width="400" alt="Hüseyin Türkmenoğlu's Dev Card"/></a>
