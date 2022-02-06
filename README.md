@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/h_turkmenoglu"><img src="https://api.daily.dev/devcards/e881465fc9ec41c7a261af117be9383f.png?r=vsn" width="400" alt="Hüseyin Türkmenoğlu's Dev Card"/></a>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinturkmenoglu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="huseyinturkmenoglu" />
 <!--
 **huseyinturkmenoglu/huseyinturkmenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<a href="https://app.daily.dev/h_turkmenoglu"><img src="https://api.daily.dev/devcards/e881465fc9ec41c7a261af117be9383f.png?r=vsn" width="400" alt="Hüseyin Türkmenoğlu's Dev Card"/></a>
