@@ -1,7 +1,8 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/h_turkmenoglu"><img src="https://github.com/huseyinturkmenoglu/huseyinturkmenoglu/blob/main/devcard.svg" width="400" alt="Hüseyin Türkmenoğlu's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/h_turkmenoglu"><img src="https://github.com/huseyinturkmenoglu/huseyinturkmenoglu/blob/main/devcard.svg" width="400" alt="Hüseyin Türkmenoğlu's Dev Card"/></a> 
+![Huseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinturkmenoglu&count_private=true&show_icons=true&theme=dracula) -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinturkmenoglu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="huseyinturkmenoglu" />
+
 <!--
 **huseyinturkmenoglu/huseyinturkmenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
